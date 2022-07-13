@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Zachary Spielberger. I'm a Software Developer with three years of industry experience building web applications and desktop applications using React, Java, and PHP. I also have experience working with TypeScript, MySQL and Python. 
+
+🔭 I’m currently working at Microchip Technology as a Software Developer
+
+🌱 I’m currently learning Spring Boot to use with React projects
+
+[![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachspiel&theme=react)](https://github.com/zachspiel/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachspiel&theme=react&layout=compact)](https://github.com/zachspiel/github-readme-stats)
+
 <!--
 **zachspiel/zachspiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

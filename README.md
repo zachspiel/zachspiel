@@ -1,4 +1,4 @@
-## Hello 👋, I'm Zachary Spielberger.
+## Hello 👋, I'm Zachary Spielberger
 
 I am a software developer at Microchip Technology currently working on MCC Melody using Java, React, and TypeScript.
 
